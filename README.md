@@ -15,7 +15,7 @@
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="https://github.com/Eliel-DG/DMI_PRACTICA15_200327/blob/main/cap1.png" width="200" alt="Captura de Pantalla 1">
+  <img src="https://github.com/Eliel-DG/DMI_PRACTICA15_200327/blob/main/cap1.png" width="400" alt="Captura de Pantalla 1">
 </p>
 
 
